@@ -14,7 +14,10 @@ Then activate the environment with `conda activate synapse`
 Next, install `ddot` with the following:
 
 ```bash
-pip install resources/ddot
+cd resources/ddot
+make
+pip install .
+cd ../..
 ```
 
 
