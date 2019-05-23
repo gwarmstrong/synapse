@@ -1,0 +1,6 @@
+[submodule "resources/CliXO"]
+	path = resources/CliXO
+	url = https://github.com/fanzheng10/CliXO.git
+[submodule "resources/ddot"]
+	path = resources/ddot
+	url = https://github.com/michaelkyu/ddot.git
