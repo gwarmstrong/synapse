@@ -1,42 +1,38 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[4]:
 
-
-import sys
-sys.path.append('/cellar/users/hmbaghdassarian/Data/Network_Comparison')
 
 import CliXO_Functions as CX
-import InfoMap_Functions as IM
-import Analysis_Functions as AF
 
-
-# In[33]:
-
-
+import pickle
 import requests
 import gzip
-import numpy as np
-import pandas as pd
-import networkx as nx
-import sys
-import pickle
+import os
+
 import ddot
 from ddot import Ontology
-# from goatools import obo_parser
-import subprocess
+
+import numpy as np
+import pandas as pd
 
 import timeit as timeit
 
 
-# In[3]:
+# In[5]:
+
+
+path = os.path.dirname(os.getcwd()) + '/data/' # path to data directory in github synapse repo
+
+
+# In[7]:
 
 
 # # Download GO obo file
 r = requests.get('http://purl.obolibrary.org/obo/go/go-basic.obo')
 # can download smaller obo in future for benchmark
-path = '/cellar/users/hmbaghdassarian/Data/Network_Comparison/Synapse_Final/data/'
+
 with open(path+'GO_all.obo', 'wb') as f:
     f.write(r.content)
 
@@ -85,19 +81,26 @@ go_branches = pd.read_table('goID_2_namespace.tab',
 ontGO.update_node_attr(go_branches)
 
 
-# In[28]:
+# In[8]:
 
 
+# retrive all children of GO term 0055202
 ontGO_synapse = ontGO.focus(branches = ['GO:0045202'])
+# flatten hierarchy
 sim_score,gene_name = ontGO_synapse.flatten()
 
+
+# Create adjacency matrix, adjacency list, and ddot ont object pickle
+
+# ddot pickle
 with open(path + 'GO_synapse_ddot_object.pickle', 'wb') as f:
     pickle.dump(ontGO_synapse, f)
 
+# adjacency matrix
 synapse_semantic = pd.DataFrame(columns = gene_name, index = gene_name, data = sim_score)
 synapse_semantic.to_csv(path + 'GO_synapse_semantic_similarity_matrix.csv')
 
-
+# adjacency list
 with open(path + 'GO_synapse_semantic_similarity_list.txt', 'w') as f:
     for row in range((sim_score.shape[0])):
         for column in range((sim_score.shape[1])):
@@ -105,59 +108,24 @@ with open(path + 'GO_synapse_semantic_similarity_list.txt', 'w') as f:
                 f.write(gene_name[column] + '\t' + gene_name[row] + '\t' + str(sim_score[row,column]) + '\n')
 
 
-# In[77]:
+# In[9]:
 
 
+# Run CliXO on flattened hierarchy and time 
 CX_File = 'GO_synapse_semantic_similarity_list.txt'
-CXOutput = 'RUN_' + CX_File[:-4]
-CX_ONT = CXOutput + 'ONT'
-CXE = "/cellar/users/hmbaghdassarian/Software/CliXO-master/clixo"
 
 t0 = timeit.default_timer()
-CX.RunCliXO(path,CX_File,CXOutput,CX_ONT, a_ = 5,b_ = 0.1, M_ = 0.0001,z_ = 0.05, 
-             CliXOExecutable = CXE)
+CX.RunCliXO(CX_File, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0.05)
 t1 = timeit.default_timer()
 print('time: {:.1f}'.format(t1-t0))
 
 
-# In[44]:
+# In[14]:
 
 
-t = pd.read_csv(path + CX_ONT, sep = '\t', header = None)
-
-
-# In[64]:
-
-
-t.head()
-
-
-# In[66]:
-
-
-t.loc[20,1]
-
-
-# In[69]:
-
-
-import seaborn as sns
-
-
-# In[76]:
-
-
-t.groupby(0).agg({'returns' : [np.mean]})
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
+# create ontology object from CliXO (useless for recreated, but similar code can be used in future for 
+# creating an ontology object from CliXO output on real data)
+CX_ONT = 'RUN_' + CX_File[0:-4] + 'ONT'
+hierarchy,mapping = CX.CliXO_Parser(CX_ONT)
+ont_CX = Ontology(hierarchy, mapping, ignore_orphan_terms=True)
 

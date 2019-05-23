@@ -1,0 +1,2473 @@
+# Parameter setting:
+# param -i /data/cellardata/users/hmbaghdassarian/Network_Comparison/Synapse_Final/synapse/data/pCX_EXAMPLE.txt
+# param -a 0.01
+# param -b 0.5
+# param -m 0.005
+# param -z 0.05
+# param -s 0
+# param -B 0
+# Loading input network graph
+# Loading input network took 0 seconds
+# Clique finding beginning
+# Current distance: 0.75	Add until: 1.29	
+# Num of real edges added: 5
+# Adding 5 edges
+# Nodes affected = 6
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 5 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:5
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.3
+# Next dt: 1.29
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.28	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 5 clusters failed the modularity filter
+# dt: 1.29
+# Next dt: 1.28
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.27	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.28
+# Next dt: 1.27
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.26	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.27
+# Next dt: 1.26
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.25	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.26
+# Next dt: 1.25
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.24	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.25
+# Next dt: 1.24
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.23	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.24
+# Next dt: 1.23
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.22	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.23
+# Next dt: 1.22
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.21	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.22
+# Next dt: 1.21
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.2	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.21
+# Next dt: 1.2
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.19	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.2
+# Next dt: 1.19
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.18	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.19
+# Next dt: 1.18
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.17	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.18
+# Next dt: 1.17
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.16	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.17
+# Next dt: 1.16
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.15	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.16
+# Next dt: 1.15
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.14	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.15
+# Next dt: 1.14
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.13	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.14
+# Next dt: 1.13
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.12	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.13
+# Next dt: 1.12
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.11	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.12
+# Next dt: 1.11
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.1	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.11
+# Next dt: 1.1
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.09	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.1
+# Next dt: 1.09
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.08	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.09
+# Next dt: 1.08
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.07	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.08
+# Next dt: 1.07
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.06	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.07
+# Next dt: 1.06
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.05	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.06
+# Next dt: 1.05
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.04	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.05
+# Next dt: 1.04
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.03	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.04
+# Next dt: 1.03
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.02	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.03
+# Next dt: 1.02
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1.01	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.02
+# Next dt: 1.01
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 1	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1.01
+# Next dt: 1
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.99	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 1
+# Next dt: 0.99
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.98	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.99
+# Next dt: 0.98
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.97	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.98
+# Next dt: 0.97
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.96	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.97
+# Next dt: 0.96
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.95	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.96
+# Next dt: 0.95
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.94	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.95
+# Next dt: 0.94
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.93	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.94
+# Next dt: 0.93
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.92	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.93
+# Next dt: 0.92
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.91	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.92
+# Next dt: 0.91
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.9	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.91
+# Next dt: 0.9
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.89	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.9
+# Next dt: 0.89
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.88	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.89
+# Next dt: 0.88
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.87	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.88
+# Next dt: 0.87
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.86	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.87
+# Next dt: 0.86
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.85	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.86
+# Next dt: 0.85
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.84	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.85
+# Next dt: 0.84
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.83	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.84
+# Next dt: 0.83
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.82	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.83
+# Next dt: 0.82
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.81	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.82
+# Next dt: 0.81
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.8	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.81
+# Next dt: 0.8
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.79	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.8
+# Next dt: 0.79
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.78	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.79
+# Next dt: 0.78
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.77	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.78
+# Next dt: 0.77
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.75	Add until: 0.76	
+# Num of real edges added: 5
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 5
+# Adding missing edges...checking 5 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 5 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:5
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.77
+# Next dt: 0.76
+# Num current clusters: 5
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 5
+# Num real edges added: 5
+# Num edges covered by valid clusters: 5
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.75	
+# Num of real edges added: 8
+# Adding 3 edges
+# Nodes affected = 6
+# Clusters affected = 4
+# Num of non-maximal clusters deleted here: 0
+# Found 3 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:3
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.76
+# Next dt: 0.75
+# Num current clusters: 8
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.74	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# Valid cluster:	A,C,D,	0.76	0.0585938	0.125988	1
+# Valid cluster:	A,E,F,	0.76	0.0585938	0.125988	1
+# Valid cluster:	G,H,	0.76	0.109375	0.881917	1
+# 0 clusters failed the modularity filter
+# dt: 0.75
+# Next dt: 0.74
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.73	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.74
+# Next dt: 0.73
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.72	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.73
+# Next dt: 0.72
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.71	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.72
+# Next dt: 0.71
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.7	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.71
+# Next dt: 0.7
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.69	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.7
+# Next dt: 0.69
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.68	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.69
+# Next dt: 0.68
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.67	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.68
+# Next dt: 0.67
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.66	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.67
+# Next dt: 0.66
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.65	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.66
+# Next dt: 0.65
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.64	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.65
+# Next dt: 0.64
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.63	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.64
+# Next dt: 0.63
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.62	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.63
+# Next dt: 0.62
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.61	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.62
+# Next dt: 0.61
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.6	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.61
+# Next dt: 0.6
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.59	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.6
+# Next dt: 0.59
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.58	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.59
+# Next dt: 0.58
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.57	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.58
+# Next dt: 0.57
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.56	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.57
+# Next dt: 0.56
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.55	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.56
+# Next dt: 0.55
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.54	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.55
+# Next dt: 0.54
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.53	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.54
+# Next dt: 0.53
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.52	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.53
+# Next dt: 0.52
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.5	Add until: 0.51	
+# Num of real edges added: 8
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 8
+# Adding missing edges...checking 8 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 8 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:8
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.52
+# Next dt: 0.51
+# Num current clusters: 8
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 8
+# Num real edges added: 8
+# Num edges covered by valid clusters: 8
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.5	
+# Num of real edges added: 12
+# Adding 4 edges
+# Nodes affected = 4
+# Clusters affected = 4
+# Num of non-maximal clusters deleted here: 0
+# Found 1 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:1
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.51
+# Next dt: 0.5
+# Num current clusters: 9
+# Num valid clusters: 3
+# Largest cluster: 3
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.49	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# Valid cluster:	E,F,G,H,	0.51	0.159722	0.337107	4
+# 0 clusters failed the modularity filter
+# dt: 0.5
+# Next dt: 0.49
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.48	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.49
+# Next dt: 0.48
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.47	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.48
+# Next dt: 0.47
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.46	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.47
+# Next dt: 0.46
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.45	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.46
+# Next dt: 0.45
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.44	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.45
+# Next dt: 0.44
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.43	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.44
+# Next dt: 0.43
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.42	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.43
+# Next dt: 0.42
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.4	Add until: 0.41	
+# Num of real edges added: 12
+# Adding 0 edges
+# Nodes affected = 0
+# Clusters affected = 0
+# Num of non-maximal clusters deleted here: 0
+# Found 0 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 9
+# Adding missing edges...checking 9 cliques
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has 9 clusters
+# Time elapsed: 0 seconds
+# Current number of clusters:9
+# New clusters to evaluate:0
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.42
+# Next dt: 0.41
+# Num current clusters: 9
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 12
+# Num real edges added: 12
+# Num edges covered by valid clusters: 12
+# Time elapsed: 0 seconds
+# Current distance: 0.3	Add until: 0.4	
+# Num of real edges added: 13
+# Adding 1 edges
+# Nodes affected = 2
+# Clusters affected = 3
+# Num of non-maximal clusters deleted here: 0
+# Found 1 new clusters to add
+# Time elapsed: 0 seconds
+# Number of clusters before merging: 10
+# Adding missing edges...checking 10 cliques
+# Considering combining 1 pairs of clusters
+# Adding 1 edges
+# Nodes affected = 2
+# Clusters affected = 4
+# Num of non-maximal clusters deleted here: 1
+# Found 1 new clusters to add
+# 0 clusters deleted in validity check; Now has 10 clusters
+# Time elapsed: 0 seconds
+# Considering combining 0 pairs of clusters
+# 0 clusters deleted in validity check; Now has  10 clusters
+# Current number of clusters:10
+# New clusters to evaluate:1
+# Time elapsed: 0 seconds
+# 0 clusters failed the uniqueness filter
+# 0 clusters failed the modularity filter
+# dt: 0.41
+# Next dt: 0.4
+# Num current clusters: 10
+# Num valid clusters: 4
+# Largest cluster: 4
+# Num edges in clusterGraph: 14
+# Num real edges added: 13
+# Num edges covered by valid clusters: 13
+# Time elapsed: 0 seconds
+# Valid cluster:	A,B,C,D,	0.41	0.171598	0.419103	2
+# 0 clusters failed the modularity filter
+# Num clusters: 5
+# Ontology construction took 0 seconds
+# Ontology is: 
+8	G	gene	0.76
+8	H	gene	0.76
+9	A	gene	0.76
+9	C	gene	0.76
+9	D	gene	0.76
+10	A	gene	0.76
+10	E	gene	0.76
+10	F	gene	0.76
+11	E	gene	0.51
+11	F	gene	0.51
+11	8	default	0.51
+12	B	gene	0.41
+12	9	default	0.41
+13	10	default	0
+13	11	default	0
+13	12	default	0

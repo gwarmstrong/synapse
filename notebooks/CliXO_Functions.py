@@ -6,15 +6,23 @@
 
 import pandas as pd
 import subprocess
-from ddot import Ontology
-import networkx as nx
+import os
+
+
+# In[5]:
+
+
+path = os.path.dirname(os.getcwd()) + '/data/' # path to data directory within github synapse repo
+CXE = os.path.dirname(os.getcwd()) + '/resources/CliXO/clixo' # path to CliXO executable within github synapse repo
 
 
 # In[13]:
 
 
-def ProcessCliXO(inputNetworkPathName, inputNetworkFileName, scaling = True, absolute = True, writeFile = True):
-
+def ProcessCliXO(inputNetworkFileName, inputNetworkPathName = path,scaling = False, absolute = True, writeFile = True):
+    """input tab separated adjacency list, output csv file named pCX_<input_file_name> with weights > 0 
+    if absolute is True and abs(weights) < 1 if scaling is True in adjacency list format that CliXO can take as
+    input"""
     DF = pd.read_csv(inputNetworkPathName+inputNetworkFileName, sep="\t",header=None)
 
     # convert scores to float
@@ -42,9 +50,15 @@ def ProcessCliXO(inputNetworkPathName, inputNetworkFileName, scaling = True, abs
 # In[28]:
 
 
-def RunCliXO(pathName,CliXOadjList_,CliXOOutput_,CliXOoutputONT_, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0.05, 
-             CliXOExecutable = "/cellar/users/hmbaghdassarian/Software/CliXO-master/clixo"):
-
+def RunCliXO(CliXOadjList_, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0.05, 
+             CliXOExecutable = CXE, pathName = path):
+    
+    """Takes formatted adjacency list as input from path (pathName), 
+    runs clixo with provided alpha, beta, M and Z parameters, and outputs the ontology to the path with file
+    name of RUN_<inputefilename>_ONT with no extension"""
+    
+    CliXOOutput_ = 'RUN_' + CliXOadjList_[:-4]
+    CliXOoutputONT_ = CliXOOutput_ + 'ONT'
 
     subprocess.call('{} -i {} -a {} [-b {}] [-M {}] [-z {}] > {}'.format(CliXOExecutable,pathName+CliXOadjList_,a_,b_,M_,z_,pathName+CliXOOutput_),shell = True)
     subprocess.call("grep -v '#' {} > {}".format(pathName+CliXOOutput_,pathName + CliXOoutputONT_),shell=True)
@@ -56,7 +70,10 @@ def RunCliXO(pathName,CliXOadjList_,CliXOOutput_,CliXOoutputONT_, a_ = 0.01,b_ =
 # In[32]:
 
 
-def CliXO_Parser(pathName = '',fileName = ''):
+def CliXO_Parser(fileName, pathName = path):
+    """This should probably be double checked, I haven't looked at it in a while. Should take your output ONT file from 
+    RunCliXO function and return lists that can directly be formatted into a ddot ont object. See CliXO_Workflow script
+    to get a better sense"""
     DF = pd.read_table(pathName+fileName, names = ['parent','child','category','score'])
     DF_hierarchy = DF[DF['category'] != 'gene']
     DF_hierarchy['parent'] = DF_hierarchy['parent'].astype(str)

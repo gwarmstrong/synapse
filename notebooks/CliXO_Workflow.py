@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# A quick tutorial of how these scripts should run
+# 
 # CliXO Parameters as suggested by Yue
 # alpha = between 0.01 and 0.1
 # 
@@ -14,48 +16,35 @@
 
 
 import CliXO_Functions as CX
-import Analysis_Functions as AF
-
-
-# In[2]:
-
-
-import pandas as pd
-import subprocess
 from ddot import Ontology
-import networkx as nx
+from pathlib import Path
+import os
 
 
 # Input file is tab separated adjacency list with edge weights as final column
 
+# In[2]:
+
+
+# path = os.path.dirname(os.getcwd()) + '/data/' # path to network file
+file = 'EXAMPLE.txt'
+# print(path)
+
+
+# If the edge weights are not greater than 0
+
 # In[3]:
 
 
-path = 'data/toy_data/'
-file = 'CliXO_pub_example.txt'
-
-
-# If the edge weights are not between [0,1]
-
-# In[4]:
-
-
-CX_File = CX.ProcessCliXO(path, file, scaling = True, absolute = True, writeFile = True)
+CX_File = CX.ProcessCliXO(file)
 
 
 # Run CliXO
 
-# In[5]:
+# In[4]:
 
 
-CXOutput = 'RUN_' + CX_File[:-4]
-CX_ONT = CXOutput + 'ONT'
-CXE = "/cellar/users/hmbaghdassarian/Software/CliXO-master/clixo"
-
-
-
-CX.RunCliXO(path,CX_File,CXOutput,CX_ONT, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0.05, 
-             CliXOExecutable = CXE)
+CX.RunCliXO(CX_File, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0.05)
 
 
 # DDOT Ont object
@@ -63,18 +52,12 @@ CX.RunCliXO(path,CX_File,CXOutput,CX_ONT, a_ = 0.01,b_ = 0.5, M_ = 0.0001,z_ = 0
 # In[6]:
 
 
-hierarchy,mapping = CX.CliXO_Parser(path,CX_ONT)
+CX_ONT = 'RUN_' + CX_File[0:-4] + 'ONT'
+
+
+# In[8]:
+
+
+hierarchy,mapping = CX.CliXO_Parser(CX_ONT)
 ont = Ontology(hierarchy, mapping, ignore_orphan_terms=True)
-
-
-# In[14]:
-
-
-n_layersCX,flowCX = AF.EnumeratePaths(ont)
-
-
-# In[ ]:
-
-
-
 
