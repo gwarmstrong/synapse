@@ -27,11 +27,12 @@ cd ../..
 ```
 
 
-You will also need to make the CliXO executables, do this with the following commands:
+You will also need to make the CliXO executables. In the root directory, do this with the following commands:
 
 ```bash
-cd resources/CliXO
-rm *.o
+rm -rf CliXO
+git submodule add https://github.com/fanzheng10/CliXO.git
+cd CliXO/
 make
 ```
 
